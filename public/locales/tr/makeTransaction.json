@@ -1,0 +1,14 @@
+{
+  "SendMoneyPage": {
+    "title": "Transfer Yap",
+    "recipient": "Karşı tarafın IBAN'ını giriniz",
+    "amount": "Gönderilecek Miktar",
+    "sendButton": "Gönder",
+    "sender": "Göndericeğiniz hesabı seçiniz"
+  },
+  "SenderAccounts": {
+    "accountNumber": "Hesap Numarası",
+    "IBAN": "IBAN",
+    "balance": "Toplam Tutar"
+  }
+}

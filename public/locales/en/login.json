@@ -1,0 +1,13 @@
+{
+  "siteDescription": "BiFrost | LOGIN",
+  "siteTitle": "LOGIN",
+  "email": "E-mail",
+  "password": "Password",
+  "signIn": "Sign in to Account",
+  "remember": "Remember Me",
+  "forgotPassword": "Şifremi Unuttum",
+  "signInButton": "Sign In",
+  "signUpTitle": "Hello People",
+  "signUpDesc": "Fill up your information and start your journey with us.",
+  "signUpButton": "Sign Up"
+}

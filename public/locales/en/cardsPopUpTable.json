@@ -1,0 +1,11 @@
+{
+  "CardType": "Type",
+  "CardNumber": "Card Number",
+  "CardExpire": "Expiration Date (MM/YYYY)",
+  "CardAvailableLimitOrBalance": "Limit/Balance",
+  "CardTotalLimit": "Maximum Limit",
+  "CardCanMakeInternetPurchases": "Internet Transactions",
+  "NoCardsFound": "No cards found for selected user.",
+  "Yes": "Yes",
+  "No": "No"
+}

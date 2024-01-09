@@ -1,0 +1,26 @@
+{
+  "siteTitle": "Yönetim | BiFrost",
+  "siteDescription": "Kullanıcıları ve başvuruları yönet",
+  "SearchUsers": "Kullanıcı Ara",
+  "SearchUsersPlaceHolder": "Aramak için bir parametre giriniz...",
+  "Name": "İsim",
+  "LastName": "Soyisim",
+  "E-Mail": "E-Posta",
+  "PhoneNumber": "Telefon Numarası",
+  "Role": "Rol",
+  "Cards": "Kartlar",
+
+  "ApplicationId": "Başvuru No",
+  "ApplicationFirstName": "İsim",
+  "ApplicationLastName": "Soyisim",
+  "ApplicationEmail": "E-Posta",
+  "ApplicationUserSince": "Kayıt Tarihi",
+  "ApplicationTotalAssetValue": "Toplam Varlık Değeri (TRY)",
+  "ApplicationApprove": "Onayla",
+  "ApplicationReject": "Reddet",
+  "ApplicationCardLimit": "Kart Limiti",
+
+  "SearchApplications": "Başvuruları Ara",
+  "SearchApplicationsPlaceHolder": "Aramak için bir parametre giriniz...",
+  "NoApplicationsFound": "Şu anda bekleyen başvuru bulunmamaktadır."
+}

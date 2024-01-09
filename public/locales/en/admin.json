@@ -1,0 +1,26 @@
+{
+  "siteTitle": "Administration | BiFrost",
+  "siteDescription": "Manage users and applications",
+  "SearchUsers": "Search User",
+  "SearchUsersPlaceHolder": "Enter a paramater to search...",
+  "Name": "First Name",
+  "LastName": "Last Name",
+  "E-Mail": "E-Mail",
+  "PhoneNumber": "Phone Number",
+  "Role": "Role",
+  "Cards": "Cards",
+
+  "ApplicationId": "Application ID",
+  "ApplicationFirstName": "First Name",
+  "ApplicationLastName": "Last Name",
+  "ApplicationEmail": "E-Mail",
+  "ApplicationUserSince": "User Since",
+  "ApplicationTotalAssetValue": "Total Asset Value (TRY)",
+  "ApplicationApprove": "Approve",
+  "ApplicationReject": "Reject",
+  "ApplicationCardLimit": "Card Limit",
+
+  "SearchApplications": "Search Applications",
+  "SearchApplicationsPlaceHolder": "Enter a paramater to search...",
+  "NoApplicationsFound": "Currently there are no applications."
+}

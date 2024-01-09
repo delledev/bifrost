@@ -1,0 +1,45 @@
+{
+  "siteDescription": "A new paradigm for traditional banking",
+  "siteTitle": "BiFrost | BANK",
+  "products": {
+    "0": {
+      "name": "Evaluate Your Assets",
+      "subHeader": "A new paradigm",
+      "paragraph": "We keep your assets safe regardless of their type, and this is the best place to evaluate them."
+    },
+    "1": {
+      "name": "An Innovative Perspective",
+      "subHeader": "Innovation",
+      "paragraph": "A new system built upon traditional banking systems and an innovative perspective."
+    },
+    "2": {
+      "name": "Infinite Options",
+      "subHeader": "A personalized experience",
+      "paragraph": "Personalized, efficient, and affordable financial opportunities created through a multi-layered system with a simple and understandable design."
+    }
+  },
+  "body": {
+    "subHeader": "Built For Control",
+    "header": "Some Options",
+    "paragraph": "Flexible Protocol",
+    "grid": {
+      "0": {
+        "heading": "Currency Exchange Capability",
+        "paragraph": "Stay informed and never fall behind with our 24/7 currency tracking and exchange programs."
+      },
+      "1": {
+        "heading": "Accessible Liquidity",
+        "paragraph": "24/7 and universal instant liquidity and credit opportunity."
+      },
+      "2": {
+        "heading": "AI",
+        "paragraph": "Minimize losses with the AI assistance we designed exclusively for you."
+      },
+      "3": {
+        "heading": "Stable Efficiency",
+        "paragraph": "Add value to your assets with long-term investment opportunities."
+      }
+    }
+  },
+  "investorsAndPartners": "Investors & Partners"
+}

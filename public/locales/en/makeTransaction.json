@@ -1,0 +1,14 @@
+{
+  "SendMoneyPage": {
+    "title": "Send Funds",
+    "recipient": "Enter the recipient's IBAN",
+    "amount": "Amount to send",
+    "sendButton": "Send",
+    "sender": "Please select an account to send from"
+  },
+  "SenderAccounts": {
+    "accountNumber": "Account Number:",
+    "IBAN": "IBAN",
+    "balance": "Balance"
+  }
+}

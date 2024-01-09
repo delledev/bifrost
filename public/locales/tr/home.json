@@ -1,0 +1,45 @@
+{
+  "siteDescription": "Geleneksel bankacılığa yeni bir paradigma",
+  "siteTitle": "BiFrost | BANK",
+  "products": {
+    "0": {
+      "name": "Varlıklarınızı değerlendirin",
+      "subHeader": "Yeni Paradigma",
+      "paragraph": "Varlıklarınızı tipinden bağımsız olarak güvende tutuyoruz onları değerlendirmek için en iyi adres burası."
+    },
+    "1": {
+      "name": "Yeni nesil bakış açıcısı",
+      "subHeader": "İnovasyon",
+      "paragraph": "Geleneksel bankacılık sistemlerinin üzerine inşa edilmiş yeni bir sistem ve yenilikçi bakış açısı."
+    },
+    "2": {
+      "name": "Sonsuz Seçenekler",
+      "subHeader": "Kişiselleştirilmiş",
+      "paragraph": "Basit ve anlaşılır tasarım ile oluşturulan bir çok katman aracılığıyla kişiselleştirilmiş verimli ve ucuz finans imkânı."
+    }
+  },
+  "body": {
+    "subHeader": "Kontrol İçin İnşa Edildi",
+    "header": "Bazı Seçenekler",
+    "paragraph": "Esnek bir protokol.",
+    "grid": {
+      "0": {
+        "heading": "Döviz İmkanı",
+        "paragraph": "7/24 açık döviz takip ve değişim programlarımızla her an haberdar olun ve asla geride kalmayın."
+      },
+      "1": {
+        "heading": "Dahimi Likidite",
+        "paragraph": "7/24 ve evrensel anında likidite, kredi imkanı."
+      },
+      "2": {
+        "heading": "Yapay Zeka",
+        "paragraph": "Sadece sizin için tasarladığımız yapay zeka yardımı ile kayıpları en aza indirin."
+      },
+      "3": {
+        "heading": "Sabit Verim",
+        "paragraph": "Uzun dönemli yatırım imkanlarıyla varlıklarınıza değer katın."
+      }
+    }
+  },
+  "investorsAndPartners": "Yatırımcılar ve Ortaklar"
+}

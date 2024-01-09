@@ -1,0 +1,11 @@
+{
+  "CardType": "Tip",
+  "CardNumber": "Kart Numarası",
+  "CardExpire": "Son Kullanma Tarihi (AA/YYYY)",
+  "CardAvailableLimitOrBalance": "Limit/Bakiye",
+  "CardTotalLimit": "Toplam Limit",
+  "CardCanMakeInternetPurchases": "İnternet İşlemleri",
+  "NoCardsFound": "Seçilen kullanıcının kartı bulunmamaktadır.",
+  "Yes": "Evet",
+  "No": "Hayır"
+}

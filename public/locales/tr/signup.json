@@ -1,0 +1,22 @@
+{
+  "Description": "Bankacılıkta yeni bir bakış açısı,",
+  "DescriptionPunchline": "sadece sana özel.",
+  "DescriptionSubText": "Gelenekselliğin yenilikle buluştuğu dönüm noktasında,",
+  "DescriptionSubTextSecondLine": "geleceğe bir köprü inşa ediyoruz.",
+  "SignupFormHeader": "Hesap Oluştur",
+  "SignupFormHeaderSubtext": "Haydi başlayalım",
+  "AlreadyHaveAnAccount": "Zaten Bir Hesabın Var Mı ?",
+  "IdentificationString": "T.C. Kimlik No",
+  "FirstName": "İsim",
+  "LastName": "Soyisim",
+  "Email": "E-posta",
+  "BirthDate": "Doğum Tarihi",
+  "AdressCountry": "Ülke",
+  "AdressPostalCode": "Posta Kodu",
+  "AdressCity": "Şehir",
+  "AdressStreet": "Sokak",
+  "Phone": "Telefon",
+  "Password": "Şifre",
+  "PasswordAgain": "Lütfen şifreyi tekrar girin",
+  "SignupFormSubmitButton": "Kayıt Ol"
+}
