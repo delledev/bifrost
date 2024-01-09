@@ -20,7 +20,10 @@ const Introduction = () => {
     <Section className="mt-32 mb-20 md:mb-0 pt-3 sm:pt-3 md:pt-3 lg:pt-3 xl:pt-3">
       <Box className="flex flex-col items-center pt-5 px-5 md:items-center">
         <Typography variant="h1" className="mb-6 md:m-1 md:text-center">
-          BiFrost
+          Bi
+          <span className='text-cyan-500'>
+            Frost
+            </span>
         </Typography>
         <Typography variant="p" className="mb-8 md:m-1">
           {t('siteDescription')}

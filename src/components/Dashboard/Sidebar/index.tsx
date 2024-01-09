@@ -90,8 +90,12 @@ const Sidebar = () => {
         <div className="m-2 rounded-lg p-2 pl-3 flex flex-col gap-8 items-center text-center py-8">
           <div className="flex flex-col gap-3">
             <span className="text-black dark:text-white font-bold text-[20px]">
-              BiFrost
-            </span>
+              Bi
+              <span className='text-cyan-500'>
+              Frost
+
+              </span>
+            </span> 
             <span className="text-black dark:text-white  text-sm">
               Connect an Ethereum wallet to manage your DeFi portfolio
             </span>

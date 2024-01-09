@@ -79,7 +79,11 @@ export default function Navbar() {
           <Box className="flex items-center text-white flex-grow cursor-pointer hover:no-underline ">
             <img src="/svg/logo.svg" alt="logo" className="w-9" />
             <span className="ml-5 text-xl font-extrabold text-black dark:text-white font-mono">
-              BiFrost
+              Bi
+              <span className='text-cyan-500'>
+                Frost
+
+                </span>
             </span>
           </Box>
         </Link>

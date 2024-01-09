@@ -1,4 +1,3 @@
-import Typography from 'components/UI/Typography';
 import FormatCurrency from 'utils/formatters/currencyFormatters';
 import { useTranslation } from 'next-i18next';
 
@@ -9,19 +8,19 @@ const MenuItemBankAccount = (props) => {
 
   return (
     <div className="w-full h-full bg-transparent  flex flex-col">
-      <div className="flex mt-4">
-        <Typography variant="p">
+      <div className="flex mt-4 px-4">
+        <span >
           {t('SenderAccounts.accountNumber')}:{' '}
-        </Typography>
-        <Typography variant="p">{accountNumber}</Typography>
+        </span>
+        <span  >{accountNumber}</span>
       </div>
-      <div className="flex mt-4">
-        <Typography variant="p">{t('SenderAccounts.IBAN')}: </Typography>
-        <Typography variant="p">{printFormat(iban, ' ')}</Typography>
+      <div className="flex mt-4 px-4">
+        <span  >{t('SenderAccounts.IBAN')}: </span>
+        <span  >{printFormat(iban, ' ')}</span>
       </div>
-      <div className="flex mt-4 mb-4">
-        <Typography variant="p">{t('SenderAccounts.balance')}: </Typography>
-        <Typography variant="p">{balance}</Typography>
+      <div className="flex mt-4 mb-4 px-4">
+        <span  >{t('SenderAccounts.balance')}: </span>
+        <span  >{balance}</span>
       </div>
     </div>
   );

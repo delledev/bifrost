@@ -93,10 +93,10 @@ const SendMoneyPage: React.FC = () => {
 
   return (
     <Layout>
-      <div className="min-h-screen dark:bg-slate-900 pb-12">
+      <div className="min-h-screen items-center align-middle  pb-12">
         <Box display="flex" flexDirection="column" alignItems="center">
           <Typography
-            className="mt-32 text-black dark:text-white"
+            className=" mt-16 text-black dark:text-white"
             variant="h3"
             component="h1"
             gutterBottom
@@ -104,7 +104,7 @@ const SendMoneyPage: React.FC = () => {
             {t('SendMoneyPage.title')}
           </Typography>
           <form
-            className="mt-20 shadow-3xl rounded-[12px] p-12  dark:bg-gradient-to-br dark:from-[#0F2027] dark:via-[#203A43] dark:to-[#2c5364]"
+            className="mt-20 shadow-3xl rounded-[12px] border-emerald-400 border p-12  dark:bg-[#1F2937]"
             onSubmit={handleSubmit}
             style={{ width: '24rem' }}
           >
@@ -171,7 +171,7 @@ const SendMoneyPage: React.FC = () => {
               </Grid>
               <Grid item xs={12}>
                 <Button
-                  className="bg-slate-800"
+                  className="bg-slate-800 border-emerald-400 border" 
                   type="submit"
                   disabled={isSubmitDisabled}
                   variant="contained"

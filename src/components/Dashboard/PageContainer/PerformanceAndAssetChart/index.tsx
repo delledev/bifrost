@@ -77,7 +77,7 @@ const ChartSection: React.FC<ChartProps> = ({ currentUser }) => {
           {t('Assets')}
         </div>
         <span>
-          <div className="flex flex-col shadow-inner items-center bg-neutral-100 dark:bg-[#1d1d21] h-[340px] justify-between p-[16px] shadow-elevation-100 rounded-[12px] border border-solid dark:border-[#2d2d32]">
+          <div className="flex flex-col shadow-inner items-center w-[300px] bg-neutral-100 dark:bg-[#1d1d21] h-[340px] justify-between p-[16px] shadow-elevation-100 rounded-[12px] border border-solid dark:border-[#2d2d32]">
           <div className='h-full w-full m-auto'>
             <PieChart
               slotProps={{legend:{hidden: true}}}
