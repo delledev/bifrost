@@ -1,5 +1,6 @@
 import { createToken, encrypt, mongoConnect, validEmail, validPwd } from 'libs';
 import { User } from 'libs/types/user';
+import TransactionModel from 'models/transactionModel';
 import UserModel from 'models/userModel';
 import type { NextApiRequest, NextApiResponse } from 'next';
 
@@ -53,6 +54,20 @@ export default async function (req: NextApiRequest, res: NextApiResponse) {
       birthDate,
       password: cryptedPassword,
     });
+
+    const transaction:any = {
+      id: undefined,
+      senderAccount: newUser._id,
+      recipientAccount: newUser._id,
+      amount: 500,
+      balanceAfterTransaction: 500,
+      category:'TRANSFER',
+      description:`Hoşgeldin bonusu.`,
+      date: undefined,
+  };
+  const trans = await TransactionModel.create(transaction)
+  newUser.transactions.push(trans._id)
+  await newUser.save()
 
     const token = createToken(newUser?._id);
 

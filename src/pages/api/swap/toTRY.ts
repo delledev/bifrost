@@ -49,8 +49,11 @@ export default async function (req: NextApiRequest, res: NextApiResponse) {
 
     const savedTransaction = await TransactionModel.create(transaction)
     user.ethBalance -= fromAmount
+
     await user.transactions.push(savedTransaction._id)
     await user.save()
+    bankAccount.balance += toAmount
+    await bankAccount.save()
     return res.status(200).send({message: 'Swap compeleted successfully.'});
   } catch (error) {
     console.log(error);
